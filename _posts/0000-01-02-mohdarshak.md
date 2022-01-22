@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"what makes you different....makes you beautiful..."
 Use the left arrow to go back!
